@@ -3,7 +3,7 @@
  */
 
 // Base API URL - will use relative URL when deployed together
-const API_URL = 'https://api.applymatchmaker.com/';
+const API_URL = 'https://api.applymatchmaker.com';
 
 // Helper function to handle fetch responses
 const handleResponse = async (response) => {
